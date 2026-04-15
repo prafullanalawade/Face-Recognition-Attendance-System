@@ -1,5 +1,5 @@
-# Python-computer-vision-project
-face-recognition-attendance-system
+
+# Face-recognition-attendance-system
 AI-Powered Biometric Attendance System
 A real-time face recognition application built with OpenCV and Dlib’s Deep Learning-based face encodings. This system automates attendance logging by identifying individuals from a live video stream and recording their entry in a structured CSV format.
 
